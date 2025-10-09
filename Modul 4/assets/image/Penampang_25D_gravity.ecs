@@ -1,0 +1,13 @@
+[XYZ.ECS]
+@SECTION=XYZ.ECS
+   Origin=484505.25930400001 9401347.760458  0
+   CosTheta=0.5493145363511901
+   SinTheta=0.83561566533501341
+   Scale=1000
+
+@SECTION=Geosoft.Projection
+   Projection=WGS 84 / UTM zone 48S
+   Datum="WGS 84",6378137,0.0818191908426215,0
+   Method="Transverse Mercator",0,105,0.9996,500000,10000000
+   Unit=m,1
+   Local="WGS 84",0,0,0,0,0,0,0

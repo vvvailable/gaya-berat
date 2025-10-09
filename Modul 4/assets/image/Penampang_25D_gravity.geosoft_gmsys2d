@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://geosoft.com/gms2model.xsd">
+  <model2D version="1.0" id="5b868c21-938b-4f96-9045-c38e9fd7fd20" type="Depth" last_modified="2025-10-09T22:09:27.4076839+07:00">
+    <coordinate_system>
+      <projection type="TRANSVERSE_MERCATOR" name="WGS 84 / UTM zone 48S" wellknown_epsg="32748" projection="UTM zone 48S" ellipsoid="WGS 84" datum="WGS 84" datumtrf="WGS 84" datumtrf_description="[WGS 84] World" radius="6378137" eccentricity="0.0818191908426215" xmlns="http://www.geosoft.com/schema/geo">
+        <shift x="0" y="0" z="0" />
+        <parameters scale="0.9996" false_east="500000" false_north="10000000" lat_origin="0" lon_origin="105" />
+        <units name="m" unit_scale="1" />
+      </projection>
+    </coordinate_system>
+  </model2D>
+</gms>
